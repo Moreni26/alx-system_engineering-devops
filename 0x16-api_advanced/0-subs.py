@@ -25,3 +25,6 @@ def number_of_subscribers(subreddit):
 
     except Exception:
         return 0
+
+    else:
+        return 0
